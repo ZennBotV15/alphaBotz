@@ -1,2 +1,11 @@
-Taro session lu di sini
-put ur session here
+},
+    "sessions": {
+      "6285964212116.0": {
+        "_sessions": {
+          "BaNF4Hn8xWd3jNHMSRxIHCmW7jOixBUGYMaKc3t0hvxo": {                        "registrationId": 780342406,
+            "currentRatchet": {                                                      "ephemeralKeyPair": {
+                "pubKey": "BeQpeaMTb7zWX2PmfrWdnArlhVgVXr0IOhz5MsVI1l9W
+",
+                "privKey": "0AzQfA5ySoM1BiiXXhYOApyiYWHPr2OurJSILk+NMGQ
+="
+              }
